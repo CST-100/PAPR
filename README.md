@@ -1,5 +1,13 @@
 # DIY PAPR
 
+*Forked from thethoughtemporium/PAPR*
+TO DO:
+- build a functioning one first
+- organize things
+- Possible HUD using transparent LCDs? Information such as outside air temperature, battery voltage, etc. May not be immediately possible due to the tiny distance between eyes and visor, but worth being looked in to. 
+- Audio system, while current one is workable, microphones on left-right may be useful along with small speakers in helmet to either double as headphones or to augment hearing
+- Onboard camera? Due to political "climate", one may be a good idea. 
+
 ### What is a PAPR?
 
 A PAPR is a positive air pressure respirator that works by supplying clean air to the user in such a way that more air is supplied than is used so external contaminants don't get in.

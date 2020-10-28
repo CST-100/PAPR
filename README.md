@@ -12,7 +12,7 @@ For helmet users:
 - Audio system, while current one is workable, microphones on left-right may be useful along with small speakers in helmet to either double as headphones or to augment hearing (This is *especially* useful in phone calls and other situations where while to a human, you may be audible, a microphone would struggle to pick you up)
 - Onboard camera? Due to political "climate", one may be a good idea. 
 
-##### Parts List:
+### Parts List:
 **Original parts:**
 *Note: Sizes listed for screws are the maximum that can fit. Using smaller screws is a good idea if you plan to take yours apart frequently or cannot find larger ones. If you have to use US Standard sizes for screws, replace M3 with #4. I'm personally testing #4 screws and will update on whether they work.*
 - Voltage regulator: 2x MT3608 
@@ -21,6 +21,7 @@ For helmet users:
 - 9 M3x30 self-tapping, flathead screws (or shorter) to hold the top and bottom shells together.
 - 20 M3x15 self-tapping, flathead screws (or shorter) to hold the fan-filter connector to the bottom shell.
 - 8 M3x7 screws to hold the fan-CPAP connector to the bottom shell. Technically, six of these can be up to 10mm, but on the top-left of each connector, the screw would collide with one of the fan-filter screws.
+
 **Of the 3D printed parts:**
 - 1 Bottom Shell
 - 1 Top Shell

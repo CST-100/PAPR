@@ -1,4 +1,4 @@
-# DIY PAPR
+# DIY Positive Air Pressure Respirator 
 
 *Forked from thethoughtemporium/PAPR*
 
